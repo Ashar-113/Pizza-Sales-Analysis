@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza Sales Analysis
 
 ## Dashboard Summary
 This dashboard gives insights into a pizzeria. This dashboard answers the most loved products and least loved products by the customers. Moreover, it illustrates the sales trend, peak hours in a day, etc. It also shows the KPIs such as how many orders this pizzeria receives in a day and how many products they sell per order. It is observed that their least-loved pizzas come from the veggie category. Furthermore, this pizzeria receives an average of 60 orders per day meanwhile selling an average of two pizzas per order.
