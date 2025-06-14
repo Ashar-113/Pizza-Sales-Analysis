@@ -36,7 +36,7 @@ Date Table = ADDCOLUMNS(
 ```
 This allowed the dashboard to organise and filter data by year, month, day, and weekday.
 #
-![Model](https://github.com/user-attachments/assets/d7c57465-2c39-4ed8-9c6f-c7f037ec45f3
+![Model](https://github.com/user-attachments/assets/d7c57465-2c39-4ed8-9c6f-c7f037ec45f3)
 
 ## What Dashboard Shows
 **Sales Over Time:** View trends and spot busy or slow periods.
